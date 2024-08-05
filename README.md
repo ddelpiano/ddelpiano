@@ -1,5 +1,3 @@
-<img src="https://content.imageresizer.com/images/memes/Suspicious-Dog-meme-1.jpg">
-
 <p>I'm Dario, a fullstack developer. I work mostly with Javascript/Typescript and React on the frontend and python on the backend. I have some experience with C and low level programming as well, currently I am studying Machine learning and Software patterns whenever I have some free time.</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dario-del-piano/)
